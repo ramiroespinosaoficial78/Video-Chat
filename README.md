@@ -1,7 +1,6 @@
 # Video-Chat
 A Video Chat Application made using WebRTC
 
-This is a video chat application made as part of my Udemy Course, [Practical WebRTC: A Complete WebRTC Bootcamp for Beginners](https://www.udemy.com/course/practical-webrtc-a-complete-webrtc-bootcamp-for-beginners/)
 
 The front end is pure HTML,CSS,Javascript. 
 The Backend is in Node.js.
